@@ -1,0 +1,1 @@
+I'm learning git for the first time. I'm using the tutorial I learned from Odin to apply to my MVP.
